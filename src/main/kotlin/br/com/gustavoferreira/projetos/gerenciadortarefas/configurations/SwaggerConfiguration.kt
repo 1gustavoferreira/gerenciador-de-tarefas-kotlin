@@ -1,6 +1,5 @@
 package br.com.gustavoferreira.projetos.gerenciadortarefas.configurations
 
-
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import springfox.documentation.builders.PathSelectors
